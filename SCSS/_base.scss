@@ -1,0 +1,35 @@
+// *,*:before,*:after{
+//     outline: 1px solid #000;
+//   }
+*,*:before,*:after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: $font-family-base;
+    line-height: $line-height-base;
+    color: $darkGreen;
+    font-size: $fz-base;
+}
+.container{
+    width: 80%;   
+    margin: 100px auto;
+}
+@media(max-width: 375px){
+    .container{
+        max-width: 375px;
+        padding: 0 20px;
+    }
+}
+.primary-btn{
+    display: inline-block;
+    text-decoration: none;
+    font-size: $fz-base;
+    color: $darkGreen;
+    background-color: $yellow;
+    padding: 8px 32px;
+    &:hover{
+        background-color: $darkGreen;
+        color: $yellow;
+    }
+}
