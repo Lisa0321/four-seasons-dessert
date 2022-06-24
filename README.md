@@ -57,5 +57,6 @@ It is thrilling to state this is the **first** website that I design and make af
 
 Welcome visiting [my first website](https://lisa0321.github.io/four-seasons-dessert/)!
 
-![image](https://github.com/Lisa0321/four-seasons-dessert/blob/main/four_seasons_dessert_video_AdobeExpress.gif)
+## Demo
+![image](https://github.com/Lisa0321/four-seasons-dessert/blob/main/four_seasons_dessert_demo.gif))
 
