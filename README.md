@@ -34,7 +34,7 @@
 
 ## Introduction
 
-It is thrilling to state this is the **first** website that I design and make after self-learning HTML and CSS! Concerning the layout of Mandrin and English website is a bit different, I decide to create my first website in my native lanaguage.
+It is thrilling to state this is the **first** website that I design and make after self-learning HTML and CSS! Concerning the layout of Mandarin and English website is a bit different, I decide to create my first website in my native lanaguage.
 
 ## User story
 * **Simulation** : As a customer, I want to add all the products that I am interested into a page, so I can decide which one I want to purchase and to pay instantly or later.
