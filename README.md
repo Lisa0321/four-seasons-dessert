@@ -41,7 +41,7 @@ It is thrilling to state this is the **first** website that I design and make af
 
 * **Customers' aspect** : Customers can save the selected products in the “My favorite” page for checking out next time.
 
-* **Shop owner's aspect** : The system can collect the customer’s favorited products data and retarget to the customers to increase conversion.
+* **Shop owner's aspect** : The system can collect the customer’s favorite products data and retarget to the customers to increase conversion.
 
 ### UI design
 * User story and functions setting
@@ -50,7 +50,7 @@ It is thrilling to state this is the **first** website that I design and make af
 
 ### Web layout
 * Understanding how to compile HTML and CSS 
-* Using SCSS to complie CSS
+* Using SCSS to compile CSS
 * Learning to create dropdown menu in navbar
 
 ## Website
